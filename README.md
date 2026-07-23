@@ -210,13 +210,12 @@ mvn tomcat7:run -Dtomcat.port=9090
 
 > *(Agregar capturas de pantalla del sistema funcionando antes de la entrega)*
 
-![img_1.png](img_1.png)
+<img width="1642" height="587" alt="img" src="https://github.com/user-attachments/assets/3f5414d8-20ab-4c55-888b-dd720b924c7a" />
+<img width="1673" height="493" alt="img_3" src="https://github.com/user-attachments/assets/4d7ca63d-9b1c-4d29-a75b-6925ee5b687f" />
+<img width="1680" height="687" alt="img_2" src="https://github.com/user-attachments/assets/ded565e9-6b88-4902-9cbd-25caf4e58828" />
+<img width="1686" height="706" alt="img_1" src="https://github.com/user-attachments/assets/d38ae70c-3c33-4b85-b9fd-8e71690753e8" />
 
-![img.png](img.png)
 
-![img_2.png](img_2.png)
-
-![img_3.png](img_3.png)
 ---
 
 ## Autores
